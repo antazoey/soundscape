@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<jsmoothproject>
+<arguments></arguments>
+<embeddedJar>true</embeddedJar>
+<executableName>SoundScape.exe</executableName>
+<iconLocation>..\gradient-823022_640.jpg</iconLocation>
+<initialMemoryHeap>-1</initialMemoryHeap>
+<jarLocation>SoundSpace Beta.jar</jarLocation>
+<mainClassName></mainClassName>
+<maximumMemoryHeap>-1</maximumMemoryHeap>
+<maximumVersion></maximumVersion>
+<minimumVersion></minimumVersion>
+<skeletonName><![CDATA[
+<none>]]>
+</skeletonName>
+</jsmoothproject>
